@@ -1,0 +1,9 @@
+{
+	"name": "kvdatafactory011124",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "512fa765-98ea-4bba-af9a-262fb76726b1",
+		"tenantId": "23fdc31a-8fcf-4750-ae8b-82037e278d67"
+	}
+}
